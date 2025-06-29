@@ -1,6 +1,6 @@
-📊 I Just Wrapped Up an In-Depth Analysis of Vrinda Store's 2022 Sales Report! 🚀
+📊 I Just Wrapped Up an In-Depth Analysis of Vrinda Store's 2025 Sales Report! 🚀
 
-Objective: Vrinda Store had one goal for 2022 – to decode their customers' behavior and drive sales growth in 2023. 📈
+Objective: Vrinda Store had one goal for 2025 – to decode their customers' behavior and drive sales growth in 2026. 📈
 
 🔍 Sample Questions I Explored:
 
@@ -8,9 +8,9 @@ Objective: Vrinda Store had one goal for 2022 – to decode their customers' beh
 
 -Which month got the highest sales and orders?
 
--Who purchased more- men or women in 2022?
+-Who purchased more- men or women in 2025?
 
--What are different order status in 2022?
+-What are different order status in 2025?
 
 -List top 10 states contributing to the sales?
 
