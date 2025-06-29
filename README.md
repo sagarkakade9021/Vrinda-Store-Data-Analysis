@@ -50,4 +50,4 @@ Based on the analysis, I suggest Vrinda Store focuses on targeting women aged 30
 
 A big shoutout to Rishabh Mishra sir for providing the invaluable raw data and guidance throughout this analysis! 🙏
 
-Screenshot : [screenshot](https://github.com/sagarkakade9021/Vrinda-Store-Data-Analysis/blob/main/Vrinda_store_report.png)
+Screenshot : ![Dashboard Preview] https://github.com/sagarkakade9021/Vrinda-Store-Data-Analysis/blob/main/Vrinda_store_report.png
